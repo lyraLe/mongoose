@@ -43,13 +43,18 @@
 > BaseMethods.js
 
 ## 高级查询
+> AdvancedSearch
 - 带外键查询
 - 分页查询
 
 ## 模型扩展
+> Extensions
 - 静态方法
 - 实体方法
 - 虚拟属性 
 - 钩子
-- 插件
+
+## 插件
+> plugin
+- plugin
 
