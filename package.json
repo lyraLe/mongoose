@@ -1,0 +1,16 @@
+{
+  "name": "mongoosetest",
+  "version": "1.0.0",
+  "description": "Object Relational Mapping 对象关系映射",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lyralee <liyarui90@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mongoose": "^5.9.1"
+  }
+}
