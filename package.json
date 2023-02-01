@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "crypto": "^1.0.1",
-    "mongoose": "^5.9.1"
+    "mongoose": "^5.13.15"
   }
 }
